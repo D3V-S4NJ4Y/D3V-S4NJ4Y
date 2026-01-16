@@ -22,11 +22,21 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=D3V-S4NJ4Y&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D3V-S4NJ4Y&theme=radical" />
+</p>
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D3V-S4NJ4Y&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&exclude_repo=D3V-S4NJ4Y" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D3V-S4NJ4Y&theme=radical" />
 </p>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=D3V-S4NJ4Y&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&hide_border=true" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/D3V-S4NJ4Y/D3V-S4NJ4Y/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
