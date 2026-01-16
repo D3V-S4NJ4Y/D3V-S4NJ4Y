@@ -34,11 +34,6 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=D3V-S4NJ4Y&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&hide_border=true" />
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/D3V-S4NJ4Y/D3V-S4NJ4Y/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## 📈 Coding Stats
@@ -77,8 +72,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 </p>
 
+### 🐍 Contribution Snake
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <img src="https://raw.githubusercontent.com/D3V-S4NJ4Y/D3V-S4NJ4Y/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
