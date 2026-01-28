@@ -14,6 +14,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D3V-S4NJ4Y&theme=radical" width="98%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=D3V-S4NJ4Y&theme=gruvbox&hide_border=true" width="98%" />
+</p>
+
 </div>
 
 ---
