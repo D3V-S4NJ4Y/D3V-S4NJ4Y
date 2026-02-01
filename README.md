@@ -26,11 +26,11 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=D3V-S4NJ4Y&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D3V-S4NJ4Y&theme=radical" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D3V-S4NJ4Y&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&exclude_repo=D3V-S4NJ4Y" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D3V-S4NJ4Y&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&exclude_repo=D3V-S4NJ4Y" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D3V-S4NJ4Y&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D3V-S4NJ4Y&theme=radical" />
 </p>
 
